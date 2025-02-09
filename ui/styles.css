@@ -1,0 +1,8 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+#login-page,
+#owner-page,
+#customer-page {
+  margin-top: 1rem;
+}
